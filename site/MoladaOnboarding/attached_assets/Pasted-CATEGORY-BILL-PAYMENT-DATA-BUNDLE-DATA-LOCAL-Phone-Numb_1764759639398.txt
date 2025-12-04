@@ -1,0 +1,42 @@
+CATEGORY: BILL PAYMENT*
+---
+*DATA BUNDLE*
+*< DATA LOCAL >*
+• *Phone Number* *(10 digits)*    - Contact Icon → *Access phone contacts*
+• *Service Provider*    - Dropdown: MTN | Airtel | Glo | 9Mobile
+• *Bundle Table*    - Daily | Weekly | Monthly | Yearly    - Airtime (Quick top-up option)
+• *Toggles*    - Save Beneficiary    - Auto-renew when expired
+*PAY NOW*  - Choose: *Fiat* or *Crypto* or bill loans or *request unique link*  - *Success → Share/Download Receipt*  - Templates: *Default / Birthday / Wedding*  - Option: *Report Transaction*  - `< SET PAY ORDERS >` *(Automate by time/date/stop condition)*
+---
+*< DATA INTERNATIONAL >*  Same as local, with support for international numbers and ISPs.  - Contact Icon  - Country-specific providers  
+*PAY NOW*  - Fiat/Crypto/bill loans/unique link→ Success  - Share/Download Receipt  - `< SET PAY ORDERS >`
+---
+*AIRTIME*
+- Input Phone Number  - Select Network  - Input Amount  - Save Beneficiary (toggle)  - *PAY NOW*  - Bill loans /fiat/crypto/request link Success → Receipt  - `< SET PAY ORDERS >`
+---
+*CABLE TV*
+- Select Provider: GOTV | DSTV | Startimes | Showmax  - Select Package  - Input Id and Amount  - Save Beneficiary (toggle)  - *PAY NOW*  - Fiat /crypto/bill loans /Request Success → Receipt  - `< SET PAY ORDERS >`
+---
+*ELECTRICITY*
+- Select: Prepaid / Postpaid  - Company (For demo: *Forchard Pay*)- - Meter Number  - Amount  - Save Beneficiary  - *PAY NOW*  - Success → Receipt  - `< SET PAY ORDERS >`
+---
+*EDUCATION*
+- Buy JAMB or WAEC PIN (coming soon)- Browse Online Sponsorships  - CTA: *“Apply Now”*
+---
+*BETTING WALLET*
+- Choose Platform: SportyBet / 1xBet  - Input Account ID  - Amount  - Wallet Source  - Save Beneficiary  
+*PAY NOW*  - Fiat ,Crypto,Bill loans , request *DEMO FAIL:*    - “You’ve reached your 20% monthly bet funding limit”  - `< SET PAY ORDERS >`
+---
+*CAC REGISTRATION*  - *COMING SOON*
+---
+*AIRTIME TO CASH CONVERSION*  - *COMING SOON*
+---
+*BILL LOANS*  - You’re eligible to borrow: *₦7,000*  
+*Creative Interface*:  - Slider to choose how much to borrow  - Combine loan + wallet balance to pay bills  - Indicator for unpaid loans  
+*Loan Restrictions Notice*:  - No airtime-to-cash while bill loan is active  - No funding others’ airtime  - Long-term unpaid loans = *Withdrawal Suspension*
+*CTA: [View Bill Loan Requirements]*
+
+Coming soon : water , Government bills etc
+
+
+Add internet coming soonEsim coming soon
